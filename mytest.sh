@@ -1,2 +1,4 @@
 echo "hello everyone "
-date 
+date
+cal 
+ls 
